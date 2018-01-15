@@ -7,6 +7,6 @@ The project manages binary strings, all the way up to providing a simple API to 
 
 This is not only an interesting use case for C++, which showcases its capabilities pretty well. It is also an excellent example of thorough software engineering, building a complex system layer by layer.
 
-You can find all the details in "Final Report.docx" under the folder "Level 4 GUI". The actual requirements file, "FMSLabfinal.pdf", was unfortunately written in Hebrew. But the resulting code is straighforward anyway, It is provided under the form of Visual Studio .SLN projects.
+You can find all the details in "Final Report.docx" which relates to the end result under the folder "Level 4 GUI". The actual requirements file, "FMSLabfinal.pdf", was unfortunately written in Hebrew. But the resulting code is straighforward anyway, It is provided under the form of Visual Studio .SLN projects.
 
 My grade was 100.
